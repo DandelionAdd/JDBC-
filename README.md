@@ -1,2 +1,2 @@
 # JDBC-
-技术栈：MySQL、Java通用界面、
+内容包括MySQL,Java编译的通用界面
