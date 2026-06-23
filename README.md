@@ -32,3 +32,8 @@
 - 管理员: `admin` / `123456`
 - 教师: `teacher1` / `123456`
 - 学生: `S001` / `123456`
+
+<img src="./images/1.png" width="600"/>
+<img src="./images/2.png" width="600"/>
+<img src="./images/3.png" width="600"/>
+<img src="./images/4.png" width="600"/>
